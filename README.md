@@ -2,5 +2,6 @@
 
 
 
-- 🔭 I’m currently working on a springguru project
+-  I’m currently working on a springGuru project
+- The good old and famous Spring Pet Clinic, Spring Guru style.
 
